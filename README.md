@@ -4,7 +4,7 @@
 <h4>You can see pictures of the website below: </h4>
 
 <h3>Home Page: </h3>
-<img src="images/dragon.jpg" alt="">
+<img src="images/screen1.PNG" alt="">
 
 <h3>About Page: </h3>
 <img src="images/dragon.jpg" alt="">
