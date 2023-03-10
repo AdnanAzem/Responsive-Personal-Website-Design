@@ -1,6 +1,6 @@
 # Responsive-Personal-Website-Design
 
-<h2>In this project I disign a frontend personal website </h2>
+<h2>In this project I design a frontend personal website </h2>
 <h4>You can see pictures of the website below: </h4>
 
 <h3>Home Page: </h3>
