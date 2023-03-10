@@ -7,13 +7,13 @@
 <img src="images/screen1.PNG" alt="">
 
 <h3>About Page: </h3>
-<img src="images/dragon.jpg" alt="">
+<img src="images/screen2.PNG" alt="">
 
 <h3>Services Page: </h3>
-<img src="images/dragon.jpg" alt="">
+<img src="images/screen3.PNG" alt="">
 
 <h3>Portfolio Page: </h3>
-<img src="images/dragon.jpg" alt="">
+<img src="images/screen4.PNG" alt="">
 
 <h3>Contact Page: </h3>
-<img src="images/dragon.jpg" alt="">
+<img src="images/screen5.PNG" alt="">
